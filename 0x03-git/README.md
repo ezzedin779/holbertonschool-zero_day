@@ -1,1 +1,1 @@
-Command of GIT
+How to use Git
